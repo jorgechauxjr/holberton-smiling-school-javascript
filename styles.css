@@ -3,6 +3,20 @@
   background-image: url("images/pic_1.jpg");
 }
 
+.my-back-price-image {
+  background-image: url("images/pic_2.jpg");
+}
+
+.my-back-course-image {
+  background-image: url("images/pic_3.jpg");
+}
+
+.back-nav-color {
+  background-color: #C271FF !important;
+  padding: 50px;
+  padding-left: 300px;
+}
+
 .header-logo{
     margin-top: 50px;
     margin-left: 50px;
